@@ -16,3 +16,8 @@ BUILD DOCKER IMAGE
 docker build -t <image_name>:<tag>
 
 NOTE: Image name should be lowercase
+
+CREATE A YAML FILE
+-------------------
+
+Create a yaml file that will be used for continous integration in heroku
